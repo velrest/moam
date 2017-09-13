@@ -1,0 +1,8 @@
+django
+coreapi
+Markdown
+django-filter
+django-crispy-forms
+django-guardian
+djangorestframework
+psycopg2
