@@ -6,3 +6,4 @@ django-crispy-forms
 django-guardian
 djangorestframework
 psycopg2
+pillow
