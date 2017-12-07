@@ -1,0 +1,25 @@
+routes:
+peak times(server)
+peaktimes (me)
+besties(time spent with faggots)
+channel useage time
+messages sent
+average time spent on channel
+Optional:
+    name changes per months
+    new users
+    all my names
+
+models:
+    session:
+        user
+        channel
+        Users[] 
+        server
+    server:
+        botid
+        name
+    user:
+        name
+
+Users and models from discor api. need to use rsv for multi modelsin ember fucking cancer
